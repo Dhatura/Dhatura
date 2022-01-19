@@ -6,7 +6,7 @@
 <br />
 <br />
 
-<img align="right" width="300px" src="https://github.com/katekostina/katekostina/blob/main/giphy.gif">
+<img align="right" width="300px" src="https://github.com/Dhatura/Dhatura/blob/main/assets/coding.gif">
 
 <!--
 **Dhatura/Dhatura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
