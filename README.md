@@ -1,4 +1,12 @@
-### Hi there 👋
+### Привет, я Саша
+<a href="https://www.linkedin.com/in/alexandra-hahina-4581931a3/" target='_blank'>
+  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+</a>
+
+<br />
+<br />
+
+<img align="right" width="300px" src="https://github.com/katekostina/katekostina/blob/main/giphy.gif">
 
 <!--
 **Dhatura/Dhatura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
