@@ -36,6 +36,6 @@
 
 </p>
 
-<img width="400px" height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhatura&layout=compact&count_private=true&&hide_border=true&bg_color=50,ebbba7,cfc7f8&title_color=fff&text_color=fff&icon_color=fff" />
+<img width="300px" height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhatura&layout=compact&count_private=true&&hide_border=true&bg_color=50,ebbba7,cfc7f8&title_color=fff&text_color=fff&icon_color=fff" />
 
-<img width="500px" height="300" align="right" src="https://github-readme-stats.vercel.app/api?username=dhatura&count_private=true&show_icons=true&hide_border=true&bg_color=50,667eea,764ba2&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
+<img width="400px" height="300" align="right" src="https://github-readme-stats.vercel.app/api?username=dhatura&count_private=true&show_icons=true&hide_border=true&bg_color=50,667eea,764ba2&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
