@@ -29,8 +29,8 @@
   <img height="20" src="./assets/css.svg" />&nbsp;&nbsp;
   <img height="20" src="./assets/postman.svg" />&nbsp;&nbsp;
   <img height="20" src="./assets/mongodb.svg" />&nbsp;&nbsp;
-  <img height="23" src="./assets/webpack.svg" />&nbsp;&nbsp;
-  <img height="25" src="./assets/git.svg" />&nbsp;&nbsp;
+  <img height="20" src="./assets/webpack.svg" />&nbsp;&nbsp;
+  <img height="20" src="./assets/git.svg" />&nbsp;&nbsp;
 </p>
 
 <a href="https://github.com/dhatura">
