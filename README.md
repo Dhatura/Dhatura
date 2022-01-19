@@ -22,8 +22,6 @@
 
   ### 🦾&nbsp;&nbsp;&nbsp;Мой стек:
 
-  <br />
-
 <p>
   <img height="20" src="./assets/js.svg">&nbsp;&nbsp;
   <img height="20" src="./assets/react.svg" />&nbsp;&nbsp;
@@ -33,9 +31,11 @@
   <img height="20" src="./assets/mongodb.svg" />&nbsp;&nbsp;
   <img height="23" src="./assets/webpack.svg" />&nbsp;&nbsp;
   <img height="25" src="./assets/git.svg" />&nbsp;&nbsp;
-
 </p>
 
-<img width="300px" height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhatura&layout=compact&count_private=true&&hide_border=true&bg_color=50,ebbba7,cfc7f8&title_color=fff&text_color=fff&icon_color=fff" />
-
-<img width="400px" height="300" align="right" src="https://github-readme-stats.vercel.app/api?username=dhatura&count_private=true&show_icons=true&hide_border=true&bg_color=50,667eea,764ba2&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
+<a href="https://github.com/dhatura">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhatura&layout=compact&count_private=true&&hide_border=true&bg_color=50,ebbba7,cfc7f8&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
+<a href="https://github.com/dhatura">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhatura&count_private=true&show_icons=true&hide_border=true&bg_color=50,667eea,764ba2&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
+</a>
