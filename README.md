@@ -34,8 +34,8 @@
 </p>
 
 <a href="https://github.com/dhatura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhatura&layout=compact&count_private=true&&hide_border=true&bg_color=50,ebbba7,cfc7f8&title_color=fff&text_color=fff&icon_color=fff" />
+  <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhatura&layout=compact&count_private=true&&hide_border=true&bg_color=50,fbc8d4,9795f0&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 <a href="https://github.com/dhatura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhatura&count_private=true&show_icons=true&hide_border=true&bg_color=50,667eea,764ba2&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=dhatura&count_private=true&show_icons=true&hide_border=true&bg_color=50,667eea,764ba2&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
 </a>
